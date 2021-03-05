@@ -18,10 +18,11 @@ body {
   padding-left: 20%;
 }
 .footer {
-  width: 200%;
-  height: auto;
+  width: 100%;
+  height: 80px;
   background-color: white;
   padding-bottom: 10%;
+  font-size: 170% !important;
 }
 #more {
   display: none;
